@@ -1,0 +1,8 @@
+#!name=殊途自用模块
+#!desc=基于奶昔配置补充个人常用设置
+#!system=mac
+
+[General]
+external-controller-access = shutu@0.0.0.0:6170
+http-api = Yanquan22@0.0.0.0:6171
+http-api-web-dashboard = true
