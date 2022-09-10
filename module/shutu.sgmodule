@@ -5,3 +5,7 @@
 external-controller-access = shutu@0.0.0.0:6170
 http-api = Yanquan22@0.0.0.0:6171
 http-api-web-dashboard = true
+
+[Rule]
+# > appstorrent
+DOMAIN,appstorrent.ru,DIRECT
