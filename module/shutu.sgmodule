@@ -9,3 +9,5 @@ http-api-web-dashboard = true
 [Rule]
 # > appstorrent
 DOMAIN,appstorrent.ru,DIRECT
+# > speedtest
+DOMAIN-SUFFIX,speedtest.net,DIRECT
