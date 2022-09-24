@@ -9,3 +9,4 @@ http-api-web-dashboard = true
 [Rule]
 # > appstorrent
 DOMAIN,appstorrent.ru,DIRECT
+DOMAIN,libtorrent.org,DIRECT
