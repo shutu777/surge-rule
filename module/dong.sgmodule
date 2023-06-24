@@ -1,3 +1,6 @@
+#!name=dong self use module
+#!desc=东之星PT过滤模块
+
 [Rule]
 # > appstorrent
 DOMAIN,www.nicept.net,DIRECT
