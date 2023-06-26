@@ -11,4 +11,5 @@ http-api-web-dashboard = true
 DOMAIN,appstorrent.ru,DIRECT
 DOMAIN,libtorrent.org,DIRECT
 
-IP-CIDR,10.10.10.0/24,DEVICE:MacMiniM1
+[Host]
+tplink.surge = 10.10.10.1
