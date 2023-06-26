@@ -12,4 +12,4 @@ DOMAIN,appstorrent.ru,DIRECT
 DOMAIN,libtorrent.org,DIRECT
 
 [Host]
-macmini.tplink = tplogin.cn
+macmini.tplink = 10.10.10.1
